@@ -42,11 +42,11 @@ Other sources to take inspiration for the dashboard charts
 
 **Net Items Delivered :** 184+ Millions
 
-**Highest Revenue from :** Nigeria =348+ Millions
+**Highest Revenue from :** Nigeria **=** 348+ Millions
 
 **Highest Delivered Category :** Adult
 
-**Most Delayed Deliveries in Year :** 2014 = 236
+**Most Delayed Deliveries in Year :** 2014 **=** 236
 
 **68%** of shippment is through **Airways**
 
