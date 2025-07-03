@@ -8,8 +8,19 @@ FedEx Logistics manages a complex global supply chain, dealing with shipments ac
 
 Given the rise of eCommerce and global distribution, companies like FedEx must continuously optimize their logistics operations to maintain a competitive edge. The dataset is designed to provide insights into how shipments are managed, identify bottlenecks or delays, and ensure cost-effectiveness. By analyzing the data, FedEx Logistics aims to streamline supply chain operations, improving delivery timelines and reducing costs for both the company and its customers.
 
+*******************************************************************************************************************
+
 **Data Set**
 link: https://drive.google.com/file/d/1G3sg45qaljQ9w-bB5i4-n7QAM59cR4xN/view
+
+**Dataset Description**
+
+![image](https://github.com/user-attachments/assets/5675f53b-e562-4a83-89dd-afa509cf2ad5)
+
+![image](https://github.com/user-attachments/assets/8738b1e0-c915-4db8-86da-09a679faf45f)
+
+
+******************************************************************************************************************
 
 **Tools Used**
 
@@ -21,20 +32,23 @@ link: https://drive.google.com/file/d/1G3sg45qaljQ9w-bB5i4-n7QAM59cR4xN/view
 
 Other sources to take inspiration for the dashboard charts
 
+******************************************************************************************************************
+
 **Visuals Used :** In making of the dashboard the key structural and visuals that were effectively used to build the dashbaord and their purpose.
 
-**Bar Graph** : To represent Categorical data and value relation
+Bar Graph : To represent Categorical data and value relation
 
-**Pie Chart** : To show percentage proportion out of 100
+Pie Chart : To show percentage proportion out of 100
 
-**Slicers** : Slicers for filteration and sorting
+Slicers : Slicers for filteration and sorting
 
-**Line PLot**: To show trend analysis
+Line PLot: To show trend analysis
 
-**Cards** : To highlight KPI's
+Cards: To highlight KPI's
 
+******************************************************************************************************************
 
-**Insights** The key valuable insights that we can deduce from the visual dashboard are:
+****Insights** The key valuable insights that we can deduce from the visual dashboard are:**
 
 **Total Deliveries :** 9964
 
